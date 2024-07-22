@@ -85,4 +85,9 @@ body {
     margin-top: 20px;
 
 }
+.black-space {
+    background-color: black;
+    height: 100px; /* Altezza dello spazio nero */
+    width: 100%;
+}
 
